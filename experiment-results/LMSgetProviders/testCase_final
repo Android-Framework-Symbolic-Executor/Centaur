@@ -1,0 +1,748 @@
+i=1
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_10_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=2
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_11_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=3
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_12_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=4
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_13_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=5
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_14_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=6
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_15_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=7
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_16_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=8
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_17_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 1)
+  (HashSet.node_1836_ElementforSkeleton_SYM 1)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=9
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_18_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=10
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_19_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=11
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_1_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (enabledOnly_2_SYMINT 1) )
+
+i=12
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_20_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=13
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_21_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=14
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_22_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=15
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_23_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=16
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_24_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=17
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_25_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=18
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_26_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=19
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_27_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=20
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_28_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=21
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_29_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=22
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_2_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 0)
+  (HashSet.node_1836_ElementforSkeleton_SYM 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=23
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_30_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=24
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_31_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=25
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_32_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=26
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_33_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 1)
+  (HashSet.node_1836_ElementforSkeleton_SYM 1)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=27
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_34_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=28
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_35_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=29
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_36_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=30
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_37_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=31
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_38_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=32
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_39_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=33
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_3_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=34
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_40_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=35
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_41_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=36
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_42_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=37
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_43_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=38
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_44_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=39
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_45_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=40
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_46_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=41
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_47_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=42
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_48_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=43
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_49_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 1)
+  (HashSet.node_1836_ElementforSkeleton_SYM 1)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=44
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_4_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=45
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_50_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=46
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_51_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=47
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_52_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=48
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_53_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=49
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_54_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=50
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_55_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=51
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_56_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=52
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_57_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=53
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_58_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=54
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_59_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=55
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_5_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=56
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_60_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=57
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_61_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=58
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_62_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=59
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_63_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=60
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_64_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=61
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_65_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 1)
+  (HashSet.node_1836_ElementforSkeleton_SYM 1)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=62
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_66_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=63
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_6_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+i=64
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_7_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=65
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_8_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+i=66
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_9_formate_formula
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+

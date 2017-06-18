@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/classes-full-debug.jar"/>
+	<classpathentry kind="lib" path="/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/services_intermediates/classes-full-debug.jar"/>
+	<classpathentry kind="lib" path="/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/wifi-service_intermediates/classes-full-debug.jar"/>
+	<classpathentry kind="lib" path="/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/core-libart_intermediates/classes-full-debug.jar"/>
+	<classpathentry kind="lib" path="/home/lanlan/Documents/github-psu/Centaur/for-android-libcore"/>
+	<classpathentry kind="lib" path="/home/lanlan/myUSB/android_aosp/out/target/common/obj/APPS/Telecom_intermediates/classes-full-debug.jar"/>
+	<classpathentry kind="lib" path="/home/lanlan/myUSB/android_aosp/out/target/common/obj/APPS/TeleService_intermediates/classes-full-debug.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

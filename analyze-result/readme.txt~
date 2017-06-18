@@ -1,0 +1,16 @@
+the first parameter is the output file from Eclipse
+the second parameter is the folder where the analysis results should be put in
+the third parameter is the path of mathsat (mathsat-5.3.10 http://mathsat.fbk.eu/download.html)
+
+
+
+//to extract the path conditions that the corresponding paths really execute the targeted line of code
+./analysis.sh '/home/lanlan/program/for-seperate/eclipse/output' '/home/lanlan/program/for-seperate/' '/home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat'
+
+
+
+
+//to extract the (partial) path conditions. All of the explored paths cannot reach the targeted line of code
+//only when there is no result returned by the command above, we execute this command 
+./analysis-partial.sh '/home/lanlan/program/for-seperate/eclipse/output' '/home/lanlan/program/for-seperate/' '/home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat'
+

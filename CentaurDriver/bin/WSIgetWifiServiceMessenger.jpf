@@ -1,0 +1,60 @@
+target=WSIgetWifiServiceMessenger
+
+sourcepath= /home/lanlan/Documents/github-psu/Centaur/CentaurDriver/src;\
+/home/lanlan/myUSB/android_aosp/frameworks/base/services/core/java;\
+/home/lanlan/myUSB/android_aosp/frameworks/base/core/java;\
+/home/lanlan/myUSB/android_aosp/frameworks/base/location/java;\
+/home/lanlan/myUSB/android_aosp/frameworks/base/packages/SettingsProvider/src;\
+/home/lanlan/myUSB/android_aosp/frameworks/opt/net/wifi/service/java;\
+/home/lanlan/myUSB/android_aosp/frameworks/base/wifi/java;\
+/home/lanlan/myUSB/android_aosp/libcore/luni/src/main/java;\
+/home/lanlan/myUSB/android_aosp/libcore/libart/src/main/java;\
+/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/core/java;\
+
+classpath = /home/lanlan/Documents/github-psu/Centaur/CentaurDriver/bin;\
+/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/services_intermediates/classes-full-debug.jar;\
+/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/classes;\
+/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/wifi-service_intermediates/classes-full-debug.jar;\
+/home/lanlan/myUSB/android_aosp/out/target/common/obj/APPS/SettingsProvider_intermediates/classes;\
+/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/core-libart_intermediates/classes;\
+/home/lanlan/Documents/github-psu/Centaur/for-android-libcore
+
+native_classpath = \
+/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/services.core_intermediates/classes-full-debug.jar;\
+/home/lanlan/myUSB/android_aosp/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/classes;\
+
+#this part need to be configured case by case
+snapshotfile=/home/lanlan/program/for-seperate/support-files/parsed-systemservice-android.txt
+skeleton.packagename=com.novoda.demos.activitylaunchmode.mal
+skeleton.uid=10054
+skeleton.pid=2007
+bootstrap.class=com.android.server.wifi.WifiServiceImpl
+targeted.code=Messenger(mClientHandler)
+symbolic.method=com.android.server.wifi.WifiServiceImpl.getServiceMessenger()
+
+
+
+search.depth_limit = 1000
+symbolic.min_int=-1000000
+symbolic.max_int=1000000
+symbolic.undefined=-1000
+symbolic.min_double=-100000.0
+symbolic.max_double=100000.0
+coverage.include=Tree.*
+coverage.show_methods=true
+coverage.show_bodies=true
+symbolic.lazy=true
+listener=gov.nasa.jpf.listener.CoverageAnalyzer,gov.nasa.jpf.centaur.vm.CentaurListener
+vm.storage.class=nil
+search.multiple_errors=true
+symbolic.debug=true
+symbolic.debug=on 
+symbolic.dp = cvc3bitvec
+#symbolic.dp=choco ## Error Choco does not support bitwise SHIFT
+
+    
+ 
+
+   
+
+

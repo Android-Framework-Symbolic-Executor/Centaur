@@ -1,0 +1,7 @@
+HashSet.node_1826_ElementforSkeleton_SYM contains CONST_android.permission.CHANGE_WIFI_STATE
+config_1_SYMREF.networkId == CONST_-1 
+config_1_SYMREF.allowedKeyManagement.bits_indexof_1 != CONST_0 
+config_1_SYMREF.allowedKeyManagement.bits_indexof_3 == CONST_0 
+config_1_SYMREF.allowedKeyManagement.bits_indexof_2 != CONST_0 
+config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits == CONST_2 
+config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits > CONST_1

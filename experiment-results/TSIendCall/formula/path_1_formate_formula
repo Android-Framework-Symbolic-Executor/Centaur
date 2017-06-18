@@ -1,0 +1,12 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun CONST_android.permission.MODIFY_PHONE_STATE () Int)
+(declare-fun HashSet.node_1844_ElementforSkeleton_SYM () Int)
+
+
+(assert (= HashSet.node_1844_ElementforSkeleton_SYM CONST_android.permission.MODIFY_PHONE_STATE))
+
+(check-sat)
+(get-model)
+(exit)

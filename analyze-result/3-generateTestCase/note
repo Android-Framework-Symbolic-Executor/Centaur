@@ -1,0 +1,7 @@
+extract all the test cases from mathsat
+
+	./extractSatTestCase -f '/home/lanlan/program/for-seperate/testCase' 
+
+	./removeRepeatTestCase -f '/home/lanlan/program/for-seperate/testCase_final'
+
+

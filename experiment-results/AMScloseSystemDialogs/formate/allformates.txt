@@ -1,0 +1,3 @@
+allformates.txt
+path_1_formate
+path_2_formate

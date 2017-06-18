@@ -1,0 +1,158 @@
+i=1
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1))
+  (config_1_SYMREF.wepKeys.elementOf 0) )
+
+
+i=2
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1)) )
+
+
+i=3
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0) )
+
+
+i=4
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0) )
+
+
+i=5
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0)
+  (config_1_SYMREF.wepKeys.elementOf 1) )
+
+
+i=6
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0)
+  (config_1_SYMREF.wepKeys.elementOf 0) )
+
+
+i=7
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0) )
+
+
+i=8
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId (- 1)) )
+
+
+i=9
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId 0) )
+
+
+i=10
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId (- 1)) )
+
+
+i=11
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId (- 1)) )
+
+
+i=12
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId 0) )
+
+
+i=13
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId 0) )
+
+
+i=14
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1)) )
+
+
+i=15
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1)) )
+
+
+i=16
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1))
+  (config_1_SYMREF.wepKeys.elementOf 1) )
+
+

@@ -1,0 +1,26 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun CONST_android.permission.ACCESS_FINE_LOCATION () Int)
+(declare-fun HashSet.node_1836_ElementforSkeleton_SYM () Int)
+(declare-fun criteria_1_SYMREF.mAltitudeRequired () Int)
+(declare-fun criteria_1_SYMREF.mBearingRequired () Int)
+(declare-fun criteria_1_SYMREF.mCostAllowed () Int)
+(declare-fun criteria_1_SYMREF.mHorizontalAccuracy () Int)
+(declare-fun criteria_1_SYMREF.mPowerRequirement () Int)
+(declare-fun criteria_1_SYMREF.mSpeedRequired () Int)
+(declare-fun enabledOnly_2_SYMINT () Int)
+
+
+(assert (= HashSet.node_1836_ElementforSkeleton_SYM CONST_android.permission.ACCESS_FINE_LOCATION))
+(assert (= criteria_1_SYMREF.mCostAllowed 0))
+(assert (= criteria_1_SYMREF.mBearingRequired 0))
+(assert (not (= criteria_1_SYMREF.mSpeedRequired 0)))
+(assert (not (= criteria_1_SYMREF.mAltitudeRequired 0)))
+(assert (= criteria_1_SYMREF.mPowerRequirement 0))
+(assert (= criteria_1_SYMREF.mPowerRequirement 0)) criteria_1_SYMREF.mPowerRequirement 0))
+(assert (= enabledOnly_2_SYMINT 0))
+
+(check-sat)
+(get-model)
+(exit)

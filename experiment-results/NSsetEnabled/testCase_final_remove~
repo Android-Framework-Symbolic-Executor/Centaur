@@ -1,0 +1,38 @@
+i=1
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 1)
+  (HashSet.node_1828_ElementforSkeleton_SYM 0) )
+
+
+i=2
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 0)
+  (HashSet.node_1828_ElementforSkeleton_SYM 0) )
+
+
+i=3
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 2)
+  (CONST_android.permission.WRITE_SETTINGS 3)
+  (HashSet.node_1828_ElementforSkeleton_SYM 2)
+  (enable_1_SYMINT 1) )
+
+
+i=4
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 2)
+  (CONST_android.permission.WRITE_SETTINGS 2)
+  (HashSet.node_1828_ElementforSkeleton_SYM 2)
+  (enable_1_SYMINT 1) )
+
+
+i=5
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 1)
+  (CONST_android.permission.WRITE_SETTINGS 2)
+  (HashSet.node_1828_ElementforSkeleton_SYM 1)
+  (enable_1_SYMINT 0) )
+
+
+i=6
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 0)
+  (CONST_android.permission.WRITE_SETTINGS 0)
+  (HashSet.node_1828_ElementforSkeleton_SYM 0)
+  (enable_1_SYMINT 0) )
+
+

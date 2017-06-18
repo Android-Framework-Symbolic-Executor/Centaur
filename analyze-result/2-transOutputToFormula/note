@@ -1,0 +1,48 @@
+For path conditions based on a single path:
+
+1. first, use modifyFormate:
+	./modifyFormate -f fileName
+   the output will be: fileName_formate
+
+   note that: the fileName should only contain the path conditions for a singel path got from jpf-symbc. e.g,
+((((r_1_SYMREF[581].intent[660].mFlags & CONST_-134742017) | CONST_268435456) | CONST_268435456) & CONST_268435456) == CONST_0 &&
+r_1_SYMREF[581].finishing == CONST_0 &&
+(((r_1_SYMREF[581].intent[660].mFlags & CONST_-134742017) | CONST_268435456) & CONST_16777216) == CONST_0 &&
+(((r_1_SYMREF[581].intent[660].mFlags & CONST_-134742017) | CONST_268435456) & CONST_262144) == CONST_0 &&
+inTask_8_SYMREF[585].inRecents != CONST_0 &&
+r_1_SYMREF[581].launchMode == CONST_1
+
+
+2. then, generate the formula file:
+  	./transformFormula -f fileName_formate
+   the output will be: fileName_formate_formula
+   
+
+3. lastly, we can use mathsat to check the sat
+	./mathsat -input=smt2 < /home/lanlan/program/jpf-eclipse/eclipse/textOutput_formate_formula
+
+
+
+
+For path conditions based on a folder containing multiple paths:
+1. first, use modifyFormateFolder:
+        ./modifyFormate -io indir -oo outdir
+
+e.g., ./modifyFormateFolder -io '/home/lanlan/program/for-seperate/result/' -oo '/home/lanlan/program/for-seperate/formate/'
+
+
+
+2. then, generate the formula file:
+        ./transFormulaFolder -io indir -oo outdir
+
+e.g., ./transFormulaFolder -io '/home/lanlan/program/for-seperate/formate/' -oo '/home/lanlan/program/for-seperate/formula/'
+
+
+
+3. lastly, we can use mathsat to check the sat
+	./mathSatFolder -io dir  > haha
+
+e.g., ./mathSatFolder -io '/home/lanlan/program/for-seperate/formula/' > '/home/lanlan/program/for-seperate/testCase'
+
+
+

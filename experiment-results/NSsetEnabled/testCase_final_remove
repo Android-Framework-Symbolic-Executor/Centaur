@@ -1,0 +1,7 @@
+i=1
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 0)
+  (CONST_android.permission.WRITE_SETTINGS 0)
+  (HashSet.node_1828_ElementforSkeleton_SYM 0)
+  (enable_1_SYMINT 0) )
+
+

@@ -1,0 +1,8 @@
+HashSet.node_1836_ElementforSkeleton_SYM contains CONST_android.permission.ACCESS_FINE_LOCATION
+criteria_1_SYMREF.mCostAllowed == CONST_0 
+criteria_1_SYMREF.mBearingRequired != CONST_0 
+criteria_1_SYMREF.mSpeedRequired != CONST_0 
+criteria_1_SYMREF.mAltitudeRequired == CONST_0 
+criteria_1_SYMREF.mPowerRequirement == CONST_0 
+criteria_1_SYMREF.mHorizontalAccuracy >= CONST_3 
+enabledOnly_2_SYMINT == CONST_0

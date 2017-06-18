@@ -1,0 +1,8 @@
+i=1
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_1_formate_formula
+( (reason_1_SYMSTRING 1) )
+
+i=2
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_2_formate_formula
+( (reason_1_SYMSTRING 0) )
+

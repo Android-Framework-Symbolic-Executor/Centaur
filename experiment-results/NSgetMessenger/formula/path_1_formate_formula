@@ -1,0 +1,12 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun CONST_android.permission.INTERNET () Int)
+(declare-fun HashSet.node_1828_ElementforSkeleton_SYM () Int)
+
+
+(assert (= HashSet.node_1828_ElementforSkeleton_SYM CONST_android.permission.INTERNET))
+
+(check-sat)
+(get-model)
+(exit)

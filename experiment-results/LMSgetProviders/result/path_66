@@ -1,0 +1,8 @@
+(HashSet.node_1836_ElementforSkeleton_SYM[**UNDEFINED**] contains CONST_android.permission.ACCESS_FINE_LOCATION) constraint # = 7
+criteria_1_SYMREF[2369].mCostAllowed != CONST_0 &&
+criteria_1_SYMREF[2369].mBearingRequired == CONST_0 &&
+criteria_1_SYMREF[2369].mSpeedRequired == CONST_0 &&
+criteria_1_SYMREF[2369].mAltitudeRequired == CONST_0 &&
+criteria_1_SYMREF[2369].mPowerRequirement == CONST_0 &&
+criteria_1_SYMREF[2369].mHorizontalAccuracy < CONST_3 &&
+enabledOnly_2_SYMINT == CONST_0

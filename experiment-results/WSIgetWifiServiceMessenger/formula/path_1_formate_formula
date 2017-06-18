@@ -1,0 +1,14 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun CONST_android.permission.ACCESS_WIFI_STATE () Int)
+(declare-fun CONST_android.permission.CHANGE_WIFI_STATE () Int)
+(declare-fun HashSet.node_1826_ElementforSkeleton_SYM () Int)
+
+
+(assert (= HashSet.node_1826_ElementforSkeleton_SYM CONST_android.permission.CHANGE_WIFI_STATE))
+(assert (= HashSet.node_1826_ElementforSkeleton_SYM CONST_android.permission.ACCESS_WIFI_STATE))
+
+(check-sat)
+(get-model)
+(exit)

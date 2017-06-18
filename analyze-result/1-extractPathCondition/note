@@ -1,0 +1,5 @@
+1. first, extract the path conditions for each path, and put them into a sperated file.
+  	./extractDiviePath -f /home/lanlan/program/jpf-eclipse/lannantest/permissionInconsistency/LocationManagerService/getProviders -o /home/lanlan/program/jpf-eclipse/lannantest/permissionInconsistency/LocationManagerService/getProviders/result
+
+	./extractDiviePath -f '/home/lanlan/program/for-seperate/eclipse/output'  -o '/home/lanlan/program/for-seperate/result/'
+

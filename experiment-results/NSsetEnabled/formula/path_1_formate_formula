@@ -1,0 +1,16 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun CONST_android.permission.CONNECTIVITY_INTERNAL () Int)
+(declare-fun CONST_android.permission.WRITE_SETTINGS () Int)
+(declare-fun HashSet.node_1828_ElementforSkeleton_SYM () Int)
+(declare-fun enable_1_SYMINT () Int)
+
+
+(assert (= HashSet.node_1828_ElementforSkeleton_SYM CONST_android.permission.WRITE_SETTINGS))
+(assert (= HashSet.node_1828_ElementforSkeleton_SYM CONST_android.permission.CONNECTIVITY_INTERNAL))
+(assert (= enable_1_SYMINT 0))
+
+(check-sat)
+(get-model)
+(exit)

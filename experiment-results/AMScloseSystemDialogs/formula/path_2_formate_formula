@@ -1,0 +1,11 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun reason_1_SYMSTRING () Int)
+
+
+(assert (= reason_1_SYMSTRING 0))
+
+(check-sat)
+(get-model)
+(exit)

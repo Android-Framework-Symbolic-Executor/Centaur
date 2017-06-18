@@ -1,0 +1,11 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun HashSet.node_1826_ElementforSkeleton_SYM () Int)
+(declare-fun config_1_SYMREF.allowedKeyManagement.bits_indexof_1 () Int)
+(declare-fun config_1_SYMREF.allowedKeyManagement.bits_indexof_2 () Int)
+(declare-fun config_1_SYMREF.allowedKeyManagement.bits_indexof_3 () Int)
+(declare-fun config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits () Int)
+(declare-fun config_1_SYMREF.networkId () Int)
+
+

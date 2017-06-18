@@ -1,0 +1,7 @@
+
+begin a new formula
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_1_formate_formula
+sat
+( (CONST_android.permission.READ_PHONE_STATE 0)
+  (HashSet.node_1844_ElementforSkeleton_SYM 0) )
+end this formula

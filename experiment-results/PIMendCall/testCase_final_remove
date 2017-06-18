@@ -1,0 +1,5 @@
+i=1
+( (CONST_android.permission.CALL_PHONE 0)
+  (HashSet.node_1860_ElementforSkeleton_SYM 0) )
+
+

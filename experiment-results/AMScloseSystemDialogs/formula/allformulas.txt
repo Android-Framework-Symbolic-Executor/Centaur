@@ -1,0 +1,4 @@
+allformulas.txt
+path_1_formate_formula
+path_2_formate_formula
+stringIntMapping.txt

@@ -1,0 +1,158 @@
+i=1
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_10_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1))
+  (config_1_SYMREF.wepKeys.elementOf 0) )
+
+i=2
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_11_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1)) )
+
+i=3
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_12_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0) )
+
+i=4
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_13_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0) )
+
+i=5
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_14_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0)
+  (config_1_SYMREF.wepKeys.elementOf 1) )
+
+i=6
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_15_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0)
+  (config_1_SYMREF.wepKeys.elementOf 0) )
+
+i=7
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_16_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId 0) )
+
+i=8
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_1_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId (- 1)) )
+
+i=9
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_2_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId 0) )
+
+i=10
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_3_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId (- 1)) )
+
+i=11
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_4_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId (- 1)) )
+
+i=12
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_5_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId 0) )
+
+i=13
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_6_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 3)
+  (HashSet.node_1826_ElementforSkeleton_SYM 3)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 2)
+  (config_1_SYMREF.networkId 0) )
+
+i=14
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_7_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1)) )
+
+i=15
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_8_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 1)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1)) )
+
+i=16
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_9_formate_formula
+( (CONST_android.permission.CHANGE_WIFI_STATE 2)
+  (HashSet.node_1826_ElementforSkeleton_SYM 2)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_indexof_3 0)
+  (config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 0)
+  (config_1_SYMREF.networkId (- 1))
+  (config_1_SYMREF.wepKeys.elementOf 1) )
+

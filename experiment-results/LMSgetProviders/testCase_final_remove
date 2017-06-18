@@ -1,0 +1,748 @@
+i=1
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=2
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=3
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=4
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=5
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=6
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=7
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=8
+( (CONST_android.permission.ACCESS_FINE_LOCATION 1)
+  (HashSet.node_1836_ElementforSkeleton_SYM 1)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=9
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=10
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=11
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (enabledOnly_2_SYMINT 1) )
+
+
+i=12
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=13
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=14
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=15
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=16
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=17
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=18
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=19
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=20
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=21
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=22
+( (CONST_android.permission.ACCESS_FINE_LOCATION 0)
+  (HashSet.node_1836_ElementforSkeleton_SYM 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=23
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=24
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=25
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=26
+( (CONST_android.permission.ACCESS_FINE_LOCATION 1)
+  (HashSet.node_1836_ElementforSkeleton_SYM 1)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=27
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=28
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=29
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=30
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=31
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=32
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=33
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=34
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=35
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=36
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=37
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=38
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=39
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=40
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=41
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=42
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=43
+( (CONST_android.permission.ACCESS_FINE_LOCATION 1)
+  (HashSet.node_1836_ElementforSkeleton_SYM 1)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=44
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=45
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=46
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=47
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=48
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=49
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=50
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=51
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=52
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=53
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=54
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=55
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=56
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=57
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=58
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=59
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=60
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=61
+( (CONST_android.permission.ACCESS_FINE_LOCATION 1)
+  (HashSet.node_1836_ElementforSkeleton_SYM 1)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=62
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 0)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mPowerRequirement 0)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=63
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 1)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=64
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=65
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 1)
+  (criteria_1_SYMREF.mCostAllowed 1)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+
+i=66
+( (CONST_android.permission.ACCESS_FINE_LOCATION 2)
+  (HashSet.node_1836_ElementforSkeleton_SYM 2)
+  (criteria_1_SYMREF.mAltitudeRequired 1)
+  (criteria_1_SYMREF.mBearingRequired 0)
+  (criteria_1_SYMREF.mCostAllowed 0)
+  (criteria_1_SYMREF.mHorizontalAccuracy 3)
+  (criteria_1_SYMREF.mPowerRequirement 3)
+  (criteria_1_SYMREF.mSpeedRequired 0)
+  (enabledOnly_2_SYMINT 0) )
+
+

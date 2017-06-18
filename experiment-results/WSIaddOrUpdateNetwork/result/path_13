@@ -1,0 +1,6 @@
+(HashSet.node_1826_ElementforSkeleton_SYM contains CONST_android.permission.CHANGE_WIFI_STATE) constraint # = 5
+config_1_SYMREF[1884].allowedKeyManagement[1911].bits_indexof_3 != CONST_0 &&
+config_1_SYMREF[1884].allowedKeyManagement[1911].bits_indexof_2 == CONST_0 &&
+config_1_SYMREF[1884].allowedKeyManagement[1911].bits_indexof_1 == CONST_0 &&
+config_1_SYMREF[1884].networkId != CONST_-1 &&
+config_1_SYMREF[1884].allowedKeyManagement[1911].bits_numOfTrueBits <= CONST_1

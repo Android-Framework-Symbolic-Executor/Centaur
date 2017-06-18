@@ -1,0 +1,50 @@
+
+begin a new formula
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_1_formate_formula
+sat
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 1)
+  (HashSet.node_1828_ElementforSkeleton_SYM 0) )
+end this formula
+
+begin a new formula
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_2_formate_formula
+sat
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 0)
+  (HashSet.node_1828_ElementforSkeleton_SYM 0) )
+end this formula
+
+begin a new formula
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_3_formate_formula
+sat
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 2)
+  (CONST_android.permission.WRITE_SETTINGS 3)
+  (HashSet.node_1828_ElementforSkeleton_SYM 2)
+  (enable_1_SYMINT 1) )
+end this formula
+
+begin a new formula
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_4_formate_formula
+sat
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 2)
+  (CONST_android.permission.WRITE_SETTINGS 2)
+  (HashSet.node_1828_ElementforSkeleton_SYM 2)
+  (enable_1_SYMINT 1) )
+end this formula
+
+begin a new formula
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_5_formate_formula
+sat
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 1)
+  (CONST_android.permission.WRITE_SETTINGS 2)
+  (HashSet.node_1828_ElementforSkeleton_SYM 1)
+  (enable_1_SYMINT 0) )
+end this formula
+
+begin a new formula
+command: /home/lanlan/program/android_tool/mathsat-5.3.10-linux-x86_64/bin/mathsat -input=smt2 < /home/lanlan/program/for-seperate/formula/path_6_formate_formula
+sat
+( (CONST_android.permission.CONNECTIVITY_INTERNAL 0)
+  (CONST_android.permission.WRITE_SETTINGS 0)
+  (HashSet.node_1828_ElementforSkeleton_SYM 0)
+  (enable_1_SYMINT 0) )
+end this formula

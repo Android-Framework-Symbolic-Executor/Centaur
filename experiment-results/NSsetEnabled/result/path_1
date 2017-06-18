@@ -1,0 +1,2 @@
+(HashSet.node_1828_ElementforSkeleton_SYM contains CONST_android.permission.WRITE_SETTINGS) && (HashSet.node_1828_ElementforSkeleton_SYM contains CONST_android.permission.CONNECTIVITY_INTERNAL) constraint # = 1
+enable_1_SYMINT == CONST_0

@@ -1,0 +1,20 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun CONST_android.permission.CHANGE_WIFI_STATE () Int)
+(declare-fun HashSet.node_1826_ElementforSkeleton_SYM () Int)
+(declare-fun config_1_SYMREF.allowedKeyManagement.bits_indexof_1 () Int)
+(declare-fun config_1_SYMREF.allowedKeyManagement.bits_indexof_2 () Int)
+(declare-fun config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits () Int)
+(declare-fun config_1_SYMREF.networkId () Int)
+
+
+(assert (= HashSet.node_1826_ElementforSkeleton_SYM CONST_android.permission.CHANGE_WIFI_STATE))
+(assert (not (= config_1_SYMREF.allowedKeyManagement.bits_indexof_2 0)))
+(assert (= config_1_SYMREF.allowedKeyManagement.bits_indexof_1 0))
+(assert (not (= config_1_SYMREF.networkId (- 1))))
+(assert (<= config_1_SYMREF.allowedKeyManagement.bits_numOfTrueBits 1))
+
+(check-sat)
+(get-model)
+(exit)

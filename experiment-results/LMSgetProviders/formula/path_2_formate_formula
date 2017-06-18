@@ -1,0 +1,16 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun CONST_android.permission.ACCESS_FINE_LOCATION () Int)
+(declare-fun HashSet.node_1836_ElementforSkeleton_SYM () Int)
+(declare-fun criteria_1_SYMREF () Int)
+(declare-fun enabledOnly_2_SYMINT () Int)
+
+
+(assert (= HashSet.node_1836_ElementforSkeleton_SYM CONST_android.permission.ACCESS_FINE_LOCATION))
+(assert (= enabledOnly_2_SYMINT 0))
+(assert (= criteria_1_SYMREF -1))
+
+(check-sat)
+(get-model)
+(exit)

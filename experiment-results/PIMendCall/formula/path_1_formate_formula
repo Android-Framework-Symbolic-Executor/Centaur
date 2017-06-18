@@ -1,0 +1,12 @@
+;; activate model generation
+(set-option :produce-models true)
+
+(declare-fun CONST_android.permission.CALL_PHONE () Int)
+(declare-fun HashSet.node_1860_ElementforSkeleton_SYM () Int)
+
+
+(assert (= HashSet.node_1860_ElementforSkeleton_SYM CONST_android.permission.CALL_PHONE))
+
+(check-sat)
+(get-model)
+(exit)
