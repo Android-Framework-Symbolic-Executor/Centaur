@@ -25,7 +25,7 @@ In Proceedings of the 15th ACM International Conference on Mobile Systems, Appli
 
  	2.4 modify the path of “jpf-centaur” in the file jpf.properties (see the example in the repo) 
 	
-	2.5 create a new folder named “for-android-libcore” under the folder Cenature
+	2.5 create a new folder named “for-android-libcore” under the folder Centaur
 
 	2.6 put the following subfolders/files of the compiled Android code (in step 1.3) (how to organize the files please see the example “for-android-libcore” folder in the repo) under the folder of “for-android-libcore”: 
 		a) ./out/target/common/obj/JAVA_LIBRARIES/core-libart_intermediates/classes/android/*; 
