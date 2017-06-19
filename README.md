@@ -6,7 +6,7 @@ Lannan Luo*, Qiang Zeng*, Chen Cao, Kai Chen, Jian Liu, Limin Liu, Neng Gao, Min
 In Proceedings of the 15th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), Niagara Falls, NY, June 19th-23rd, 2017.
 
 
-1. First-phase Preparation (prepare the environments that our tool jpf-centaur relies on): 
+1. First-phase Preparation (preparing the environments that our tool jpf-centaur relies on): 
 
 	1.1 download Eclipse
 
@@ -15,7 +15,7 @@ In Proceedings of the 15th ACM International Conference on Mobile Systems, Appli
 	1.3 download Android source code (https://source.android.com/source/); compile the framework and SDK
 
 
-2. Second-phase Preparation (prepare our tool jpf-centaur):
+2. Second-phase Preparation (preparing our tool jpf-centaur):
 
 	2.1 download Centaur
 
