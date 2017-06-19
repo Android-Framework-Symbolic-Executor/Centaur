@@ -2,6 +2,7 @@
 Symbolic executor for Android Framework code
 
 Paper: "System Service Call-oriented Symbolic Execution of Android Framework with Applications to Vulnerability Discovery and Exploit Generation"
+
 Lannan Luo*, Qiang Zeng*, Chen Cao, Kai Chen, Jian Liu, Limin Liu, Neng Gao, Min Yang, Xinyu Xing, and Peng Liu. (*Co-first authors).
 In Proceedings of the 15th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), Niagara Falls, NY, June 19th-23rd, 2017.
 
